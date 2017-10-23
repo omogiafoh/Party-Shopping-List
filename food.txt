@@ -1,3 +1,4 @@
 food.txt
 pizza
 Mangoes
+chips
